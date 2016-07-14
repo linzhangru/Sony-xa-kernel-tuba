@@ -1,0 +1,4 @@
+
+config MTK_STK8313
+        bool "STK8313 for Mediatek package"
+        default y
